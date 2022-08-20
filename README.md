@@ -1,2 +1,2 @@
 # onlineOrder
-online food-ordering web app
+A Spring and Hibernate based online food ordering system
